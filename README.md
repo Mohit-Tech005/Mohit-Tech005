@@ -6,11 +6,13 @@ Focused on learning, analyzing data, and supporting data-driven decisions.
 ---
 
 ### 👨‍💼 About Me
-🎓 B.Com Graduate | Aspiring Data Analyst & BI Enthusiast  
+🎓 B.Com Graduate(Final year) | Aspiring Data Analyst & BI Enthusiast  
+🎓 Master in Data Scinece In IITM (Indian Institute Technology Of Madras)
+
 📈 Open to internships & entry-level data analyst roles  
 🌍 Open to remote and on-site opportunities  
 
-I have hands-on experience in data cleaning, exploratory data analysis (EDA), and visualization using real-world datasets. I am eager to apply my analytical skills in real business environments and grow through practical exposure.
+🔍 Hands-on experience working with real-world data for cleaning, analysis, and visualization to support business insights.
 
 
 
