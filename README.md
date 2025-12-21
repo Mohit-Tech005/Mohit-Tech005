@@ -7,6 +7,7 @@ Focused on learning, analyzing data, and supporting data-driven business decisio
 
 ### 👨‍💼 About Me
 🎓 B.Com Graduate | Aspiring Data Analyst & BI Enthusiast  
+🎓 Master In Data Science In IITM ( Indian Institute Technology Of Madras)  
 📈 Open to internships & entry-level data analyst roles  
 🌍 Open to remote and on-site opportunities  
 
