@@ -12,7 +12,7 @@ Focused on learning, analyzing data, and supporting data-driven decisions.
 
 I have hands-on experience in data cleaning, exploratory data analysis (EDA), and visualization using real-world datasets. I am eager to apply my analytical skills in real business environments and grow through practical exposure.
 
---- 
+
 
 ---
 
