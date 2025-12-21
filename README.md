@@ -12,21 +12,7 @@ Focused on learning, analyzing data, and supporting data-driven decisions.
 
 I have hands-on experience in data cleaning, exploratory data analysis (EDA), and visualization using real-world datasets. I am eager to apply my analytical skills in real business environments and grow through practical exposure.
 
----
-
-### 💼 Internship Experience
-
-**Data Analytics Intern**
-- Performed data cleaning, preprocessing, and exploratory data analysis  
-- Analyzed datasets to identify trends and actionable insights  
-- Used Python, Excel, and SQL for analysis and reporting  
-- Supported data-driven decision-making through visualizations  
-
-**Digital Marketing Intern – Why Global Services**
-- Assisted in digital marketing campaigns and online performance tracking  
-- Analyzed campaign data to measure engagement and reach  
-- Gained exposure to analytics-driven marketing strategies  
-- Motivated to transition into data analytics and showcase analytical and reporting skills  
+--- 
 
 ---
 
