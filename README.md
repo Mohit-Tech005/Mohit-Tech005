@@ -1,43 +1,42 @@
 ## Hi, I'm Mohit 👋
 
 📊 Entry-level Data Analytics enthusiast skilled in Python, SQL, Excel, and Power BI.  
-Focused on learning, analyzing data, and supporting data-driven decisions.
+Focused on learning, analyzing data, and supporting data-driven business decisions.
 
 ---
 
 ### 👨‍💼 About Me
-🎓 B.Com Graduate(Final year) | Aspiring Data Analyst & BI Enthusiast  
-🎓 Master in Data Scinece In IITM (Indian Institute Technology Of Madras)
-
+🎓 B.Com Graduate | Aspiring Data Analyst & BI Enthusiast  
 📈 Open to internships & entry-level data analyst roles  
 🌍 Open to remote and on-site opportunities  
 
-🔍 Hands-on experience working with real-world data for cleaning, analysis, and visualization to support business insights.
-
-
+🎯 Hands-on experience working with real-world data for cleaning, analysis, and visualization to support business insights.
 
 ---
 
-### 🔍 What I’m Currently Working On
+### 💼 Internship Experience
+
+**Data Analytics Intern**
+- Worked on data cleaning, preprocessing, and exploratory data analysis  
+- Used Python, Excel, and SQL to analyze datasets and generate insights  
+
+**Digital Marketing Intern – Why Global Services**
+- Supported digital marketing campaigns and performance analysis  
+- Analyzed campaign data to understand engagement and reach  
+
+---
+
+### 🛠 Tech Stack
+Python • SQL • Excel • Power BI  
+Pandas • NumPy • Matplotlib • Seaborn  
+Git • GitHub  
+
+---
+
+### 🔍 Currently Working On
 - Exploratory Data Analysis (EDA) projects  
 - SQL-based data querying and reporting  
 - Power BI dashboards for business insights  
-
----
-
-### 🛠 Technical Skills & Tools
-- **Programming:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Spreadsheets:** Excel (Pivot Tables, Lookups, Charts)  
-- **Version Control:** Git, GitHub  
-
----
-
-### 📂 Projects
-- Titanic Survival Analysis (EDA)  
-- Startup Funding Analysis  
-- SEB-Market-Risk-Analysis 
 
 ---
 
@@ -48,16 +47,13 @@ Focused on learning, analyzing data, and supporting data-driven decisions.
 
 ---
 
+### 📂 Projects
+- Titanic Survival Analysis  
+- Startup Funding Analysis  
+- Power BI Business Dashboards  
+
+---
+
 ### 📫 How to Reach Me
 - GitHub: **@Mohit-Tech005**  
 - LinkedIn: *https://www.linkedin.com/in/mohit-techprofile/*  
-
----
-
-### 😄 Pronouns
-He / Him  
-
----
-
-### ⚡ Fun Fact
-I enjoy turning data from different domains into meaningful insights.
