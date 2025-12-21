@@ -15,18 +15,6 @@ Focused on learning, analyzing data, and supporting data-driven business decisio
 
 ---
 
-### 💼 Internship Experience
-
-**Data Analytics Intern**
-- Worked on data cleaning, preprocessing, and exploratory data analysis  
-- Used Python, Excel, and SQL to analyze datasets and generate insights  
-
-**Digital Marketing Intern – Why Global Services**
-- Supported digital marketing campaigns and performance analysis  
-- Analyzed campaign data to understand engagement and reach  
-
----
-
 ## Tech Stack
 - **Programming:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy  
