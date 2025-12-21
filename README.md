@@ -27,10 +27,11 @@ Focused on learning, analyzing data, and supporting data-driven business decisio
 
 ---
 
-### 🛠 Tech Stack
-Python • SQL • Excel • Power BI  
-Pandas • NumPy • Matplotlib • Seaborn  
-Git • GitHub  
+## Tech Stack
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Tools:** Excel, Git, GitHub   
 
 ---
 
