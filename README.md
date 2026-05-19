@@ -1,6 +1,6 @@
 ## Hi, I'm Mohit 👋
 
-📊 Entry-level Data Analytics enthusiast skilled in Python, SQL, Excel, and Power BI. Focused on learning, analyzing data, and supporting data-driven business decisions.
+📊 Entry-level Business and Analytics enthusiast skilled in Python, SQL, Excel, and Power BI. Focused on learning, analyzing data, and supporting data-driven business decisions.
 
 ---
 
